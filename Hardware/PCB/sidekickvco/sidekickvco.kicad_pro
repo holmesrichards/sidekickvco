@@ -497,9 +497,7 @@
         "name": "Power",
         "nets": [
           "+12V",
-          "+12V_1",
           "-12V",
-          "-12V_1",
           "-5V",
           "/Jacks, power, etc/+12V_IN",
           "/Jacks, power, etc/-12V_IN"
@@ -515,7 +513,10 @@
     "meta": {
       "version": 2
     },
-    "net_colors": null
+    "net_colors": {
+      "+5V_REF": "rgb(0, 132, 0)",
+      "-5V_REF": "rgb(0, 132, 0)"
+    }
   },
   "pcbnew": {
     "last_paths": {
@@ -573,7 +574,7 @@
     ],
     [
       "00000000-0000-0000-0000-000061942543",
-      "Front PCB"
+      "Main PCB"
     ],
     [
       "00000000-0000-0000-0000-000061a0b1ab",
@@ -581,7 +582,7 @@
     ],
     [
       "00000000-0000-0000-0000-0000619704e4",
-      "Octave and sync switches"
+      "Panel mounted components"
     ],
     [
       "00000000-0000-0000-0000-0000619fd1d7",
