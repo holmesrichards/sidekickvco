@@ -353,17 +353,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2020815"
-     inkscape:cx="87.348485"
-     inkscape:cy="555.2868"
+     inkscape:zoom="3.3999999"
+     inkscape:cx="345.00001"
+     inkscape:cy="468.67648"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer11"
-     showgrid="false"
+     inkscape:current-layer="layer5"
+     showgrid="true"
      units="in"
      inkscape:window-width="1607"
      inkscape:window-height="1012"
-     inkscape:window-x="153"
-     inkscape:window-y="1"
+     inkscape:window-x="22"
+     inkscape:window-y="29"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1209,17 +1209,16 @@
      id="layer5"
      inkscape:label="Behind panel"
      style="display:inline">
-    <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#800080;fill-opacity:1;stroke:none;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="M 2.0866148,5.6850412 H 3.0708671 V 4.6220487 H 3.8188989 V 3.0866152 H 2.0866148 Z"
-       id="path5042" />
     <rect
-       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.993004;-inkscape-stroke:none;stop-color:#000000"
+       style="font-variation-settings:normal;display:inline;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.01041667;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.993004;stop-color:#000000"
        id="rect3573"
-       width="0.7480315"
-       height="0.66929132"
+       width="0.98425215"
+       height="0.94488192"
        x="2.0866139"
-       y="4.9370079" />
+       y="4.7401576"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_daughterboard.png"
+       inkscape:export-xdpi="1000.1248"
+       inkscape:export-ydpi="1000.1248" />
     <path
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -7.2007858,1.4370141 h 0.622047 v 0.6220475 h -0.456693 l -0.165354,-0.1574803 z"
@@ -1654,7 +1653,10 @@
        width="0.64845806"
        height="0.21538718"
        x="2.1364007"
-       y="5.1836452" />
+       y="5.1836452"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_daughterboard.png"
+       inkscape:export-xdpi="1000.1248"
+       inkscape:export-ydpi="1000.1248" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1744,7 +1746,7 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="Labels"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3770,7 +3772,9 @@
        id="text2315"><tspan
          sodipodi:role="line"
          id="tspan2313"
-         style="stroke-width:0.01"></tspan></text>
+         style="stroke-width:0.01"
+         x="4.5275602"
+         y="3.5196862" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4556,7 +4560,10 @@
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
     <g
        id="g3180"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_daughterboard.png"
+       inkscape:export-xdpi="1000.1248"
+       inkscape:export-ydpi="1000.1248">
       <rect
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.993004;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect15223"
@@ -4592,7 +4599,10 @@
       </g>
     </g>
     <g
-       id="g6043">
+       id="g6043"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_daughterboard.png"
+       inkscape:export-xdpi="1000.1248"
+       inkscape:export-ydpi="1000.1248">
       <circle
          r="0.062992126"
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4612,7 +4622,10 @@
     </g>
     <g
        id="g6051"
-       transform="translate(-0.7480315,-0.70866142)">
+       transform="translate(-0.7480315,-0.70866142)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_daughterboard.png"
+       inkscape:export-xdpi="1000.1248"
+       inkscape:export-ydpi="1000.1248">
       <circle
          r="0.062992126"
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4670,7 +4683,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Panel Hardware"
-     style="display:inline">
+     style="display:none">
     <g
        id="g3230-5"
        style="display:inline"
