@@ -1878,8 +1878,11 @@
     (path "/00000000-0000-0000-0000-0000619fd1d7/396c1a33-5a39-4680-8e7a-7ff35d9be880"
       (reference "#PWR0131") (unit 1) (value "+12V") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-000061a0b1ab/03506130-9d88-4d9c-ad22-c302cf953d5f"
+      (reference "B1") (unit 1) (value "Board") (footprint "ao_tht:Board_Marker")
+    )
     (path "/00000000-0000-0000-0000-0000619704e4/d4348534-4ffd-4fb0-8bf4-ec53f2e50799"
-      (reference "B3") (unit 1) (value "Board") (footprint "ao_tht:Board_Marker")
+      (reference "B2") (unit 1) (value "Board") (footprint "ao_tht:Board_Marker")
     )
     (path "/00000000-0000-0000-0000-000061942543/00000000-0000-0000-0000-00005f1530b9"
       (reference "C1") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
@@ -1951,7 +1954,7 @@
       (reference "GRAF1") (unit 1) (value "board") (footprint "sidekickvco:sidekick_daughterboard")
     )
     (path "/00000000-0000-0000-0000-000061a0b1ab/00000000-0000-0000-0000-000061680e82"
-      (reference "GRAF2") (unit 1) (value "Holes") (footprint "herovco_panel:herovco_panel_holes")
+      (reference "GRAF2") (unit 1) (value "Holes") (footprint "sidekickvco:sidekick_panel_holes")
     )
     (path "/00000000-0000-0000-0000-000061a0b1ab/00000000-0000-0000-0000-0000618dc593"
       (reference "GRAF3") (unit 1) (value "AO logo") (footprint "ao_tht:analogoutput")
@@ -2227,16 +2230,16 @@
       (reference "RV1") (unit 1) (value "100k") (footprint "ao_tht:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_centered")
     )
     (path "/00000000-0000-0000-0000-000061942543/00000000-0000-0000-0000-000060b66115"
-      (reference "RV2") (unit 1) (value "10k") (footprint "ao_tht:Potentiometer_Bourns_3296W_Vertical_screw_centered")
+      (reference "RV2") (unit 1) (value "10k") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296P_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000061942543/00000000-0000-0000-0000-0000610e03d6"
-      (reference "RV5") (unit 1) (value "20k") (footprint "ao_tht:Potentiometer_Bourns_3296W_Vertical_screw_centered")
+      (reference "RV5") (unit 1) (value "10k") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296P_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000061942543/00000000-0000-0000-0000-0000610e24f2"
-      (reference "RV6") (unit 1) (value "20k") (footprint "ao_tht:Potentiometer_Bourns_3296W_Vertical_screw_centered")
+      (reference "RV6") (unit 1) (value "10k") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296P_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000061942543/00000000-0000-0000-0000-0000615edc47"
-      (reference "RV9") (unit 1) (value "50k") (footprint "ao_tht:Potentiometer_Bourns_3296W_Vertical_screw_centered")
+      (reference "RV9") (unit 1) (value "10k") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296P_Horizontal")
     )
     (path "/00000000-0000-0000-0000-0000619fd1d7/2417eb4f-71e0-4070-98dd-13ae5ecf3c1c"
       (reference "RV10") (unit 1) (value "50k") (footprint "ao_tht:Potentiometer_Bourns_3296W_Vertical_screw_centered")

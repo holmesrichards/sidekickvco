@@ -1571,7 +1571,7 @@
   (symbol (lib_id "ao_symbols:Board") (at 203.2 27.94 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d4348534-4ffd-4fb0-8bf4-ec53f2e50799)
-    (property "Reference" "B3" (id 0) (at 208.915 27.0315 0)
+    (property "Reference" "B2" (id 0) (at 208.915 27.0315 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Board" (id 1) (at 208.915 29.8066 0)

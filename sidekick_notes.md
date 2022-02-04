@@ -6,12 +6,8 @@ LINK SAW goes to SYNC
 
 Would there be a use for a Hero Breakout module? Just link to 4 buffered jacks...
 
-Current thinking on structure:
+## Caveat emptor
 
-* Panel mounted octave switch to Molex to main board
-* Panel mounted fine tune pot to Molex to main board
-* 3 Panel mounted jacks (tri, ramp, lin FM) to Molex to main board
-* Sync switch on new PCB with mounting screws attached to panel with Molex to main board
-* 4 board mounted jacks and 4 side screw trimmers attached to main board which is perpendicular
-* Possibly two main boards as perpendicular sandwich
+Bourns 3296P 10k trimmers are specified for the panel accessible trimmers. Similar trimmers from other manufacturers *may* differ slightly in their dimensions which may cause misalignment between panel and PCB. Compare datasheets carefully before buying. Bourns is more expensive than some but was chosen because it seems more readily available.
 
+The jacks are from Tayda, SKU A-1122 or A-3617 (seemingly identical). This appears to be the same as jacks sold under the model number PJ-644C elsewhere. Again, similar looking jacks from other sources may have slightly different dimensions.

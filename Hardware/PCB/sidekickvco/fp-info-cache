@@ -1,498 +1,729 @@
-116499819432057
-ao_tht
-3PDT-toggle-switch-1M-seriesx
-
-
-0
-9
-9
-ao_tht
-Arduino_Nano
-Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
-Arduino Nano
-0
-30
-30
-ao_tht
-Board_Marker
-Mark board for extraction
-
-0
-0
-0
-ao_tht
-CC0_logo
-
-
-0
-0
-0
-ao_tht
-CP_Radial_D5.0mm_P2.00mm
-CP, Radial series, Radial, pin pitch=2.00mm, , diameter=5mm, Electrolytic Capacitor
-CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor
-0
-2
-2
-ao_tht
-CP_Radial_D6.3mm_P2.50mm
-CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor
-CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor
-0
-2
-2
-ao_tht
-C_Disc_D3.0mm_W1.6mm_P2.50mm
-C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
-C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor
-0
-2
-2
-ao_tht
-C_Radial_D8.0mm_H11.5mm_P3.50mm
-C, Radial series, Radial, pin pitch=3.50mm, diameter=8mm, height=11.5mm, Non-Polar Electrolytic Capacitor
-C Radial series Radial pin pitch 3.50mm diameter 8mm height 11.5mm Non-Polar Electrolytic Capacitor
-0
-2
-2
-ao_tht
-C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
-C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*2.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
-C Rect series Radial pin pitch 5.00mm  length 7.2mm width 2.5mm Capacitor
-0
-2
-2
-ao_tht
-C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
-C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*7.2mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
-C Rect series Radial pin pitch 5.00mm  length 7.2mm width 7.2mm Capacitor
-0
-2
-2
-ao_tht
-DIN5
-
-
-0
-7
-7
-ao_tht
-DIP-6_W7.62mm_Socket_LongPads
-6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
-0
-6
-6
-ao_tht
-DIP-8_W7.62mm_Socket_LongPads
-8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
-0
-8
-8
-ao_tht
-DIP-14_W7.62mm_Socket_LongPads
-14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
-0
-14
-14
-ao_tht
-DIP-16_W7.62mm_Socket_LongPads
-16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
-0
-16
-16
-ao_tht
-DPDT-toggle-switch-1M-seriesx
-
-
-0
-6
-6
-ao_tht
-D_DO-35_SOD27_P7.62mm_Horizontal
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
-0
-2
-2
-ao_tht
-D_DO-41_SOD81_P7.62mm_Horizontal
-Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-ao_tht
-D_DO-41_SOD81_P10.16mm_Horizontal
-Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-ao_tht
-Heatsink_17x17mm_A-5093
-Heatsink, 17mm x 17mm, Tayda A-5093
-heatsink
-0
-0
-0
-ao_tht
-Jack_3.5mm_tip_switch_thonkiconn
-TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)
-WQP-PJ398SM TRS 3.5mm mono vertical jack thonkiconn qingpu
+170893302339164
+Potentiometer_THT
+Potentiometer_ACP_CA6-H2,5_Horizontal
+Potentiometer, horizontal, ACP CA6-H2,5, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
+Potentiometer horizontal ACP CA6-H2,5
 0
 3
 3
-ao_tht
-Jack_6.35mm_Neutrik_NMJ6HCD2_Horizontal
-M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2
-neutrik jack m
-0
-6
-6
-ao_tht
-Jack_6.35mm_PJ_629HAN
-
-
-0
-5
-5
-ao_tht
-Jack_6.35mm_PJ_629HAN_slots
-
-
-0
-5
-5
-ao_tht
-Jack_6.35mm_TE-CK-6.35-29B_Horizontal
-M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2
-neutrik jack m
-0
-6
-6
-ao_tht
-LED_D5.0mm
-LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
-LED diameter 5.0mm 2 pins
-0
-2
-2
-ao_tht
-Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical
-Molex KK-254 Interconnect System, old/engineering part number: AE-6410-02A example for new part number: 22-27-2021, 2 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
-0
-2
-2
-ao_tht
-Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical
-Molex KK-254 Interconnect System, old/engineering part number: AE-6410-03A example for new part number: 22-27-2031, 3 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+Potentiometer_THT
+Potentiometer_ACP_CA9-H2,5_Horizontal
+Potentiometer, horizontal, ACP CA9-H2,5, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf
+Potentiometer horizontal ACP CA9-H2,5
 0
 3
 3
-ao_tht
-Molex_KK-254_AE-6410-08A_1x08_P2.54mm_Vertical
-Molex KK-254 Interconnect System, old/engineering part number: AE-6410-08A example for new part number: 22-27-2081, 8 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
-0
-8
-8
-ao_tht
-MountingHole_3.2mm_M3
-Mounting Hole 3.2mm, no annular, M3
-mounting hole 3.2mm no annular m3
-0
-0
-0
-ao_tht
-MountingHole_3.2mm_Pad
-Mounting Hole 3.2mm
-mounting hole 3.2mm
-0
-1
-1
-ao_tht
-OSHW-Logo2_7.3x6mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-ao_tht
-PPTC_RXEF025
-Fuse, Resettable, Radial, pin pitch=5.00mm, , diameter*width=7.0*3.0mm^2, Fuse, https://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_radial_leaded_rxef_datasheet.pdf.pdf
-Fuse Resettable Radial pin pitch 5.00mm  diameter 7.0mm width 3.0mm 
-0
-2
-2
-ao_tht
-Perf_Board_Hole
-Wire solder connection
-connector
-0
-1
-1
-ao_tht
-PinHeader_1x02_P2.54mm_Vertical
-Through hole straight pin header, 1x02, 2.54mm pitch, single row
-Through hole pin header THT 1x02 2.54mm single row
-0
-2
-2
-ao_tht
-PinHeader_1x03_P2.54mm_Vertical
-Through hole straight pin header, 1x03, 2.54mm pitch, single row
-Through hole pin header THT 1x03 2.54mm single row
+Potentiometer_THT
+Potentiometer_ACP_CA9-H3,8_Horizontal
+Potentiometer, horizontal, ACP CA9-H3,8, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf
+Potentiometer horizontal ACP CA9-H3,8
 0
 3
 3
-ao_tht
-PinHeader_1x04_P2.54mm_Vertical
-Through hole straight pin header, 1x04, 2.54mm pitch, single row
-Through hole pin header THT 1x04 2.54mm single row
-0
-4
-4
-ao_tht
-PinHeader_1x08_P2.54mm_Vertical
-Through hole straight pin header, 1x08, 2.54mm pitch, single row
-Through hole pin header THT 1x08 2.54mm single row
-0
-8
-8
-ao_tht
-PinHeader_1x10_P2.54mm_Vertical
-Through hole straight pin header, 1x10, 2.54mm pitch, single row
-Through hole pin header THT 1x10 2.54mm single row
-0
-10
-10
-ao_tht
-PinSocket_1x10_P2.54mm_Vertical
-Through hole straight socket strip, 1x10, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x10 2.54mm single row
-0
-10
-10
-ao_tht
-Potentiometer_Alpha_16mm_Long_Pin_Single_Vertical
-Potentiometer, vertical, Piher PC-16 Single, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf
-Potentiometer vertical Piher PC-16 Single
+Potentiometer_THT
+Potentiometer_ACP_CA9-H5_Horizontal
+Potentiometer, horizontal, ACP CA9-H5, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf
+Potentiometer horizontal ACP CA9-H5
 0
 3
 3
-ao_tht
-Potentiometer_Alpha_16mm_Single_Vertical
-Potentiometer, vertical, Piher PC-16 Single, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf
-Potentiometer vertical Piher PC-16 Single
+Potentiometer_THT
+Potentiometer_ACP_CA9-V10_Vertical
+Potentiometer, vertical, ACP CA9-V10, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf
+Potentiometer vertical ACP CA9-V10
 0
 3
 3
-ao_tht
-Potentiometer_Alpha_RA6020F_Single_Slide
-Bourns single-gang slide potentiometer, 60.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf
-Bourns single-gang slide potentiometer 60.0mm
+Potentiometer_THT
+Potentiometer_ACP_CA9-V10_Vertical_Hole
+Potentiometer, vertical, shaft hole, ACP CA9-V10, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf
+Potentiometer vertical hole ACP CA9-V10
 0
 3
 3
-ao_tht
+Potentiometer_THT
+Potentiometer_ACP_CA14-H2,5_Horizontal
+Potentiometer, horizontal, ACP CA14-H2,5, http://www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf
+Potentiometer horizontal ACP CA14-H2,5
+0
+3
+3
+Potentiometer_THT
+Potentiometer_ACP_CA14-H4_Horizontal
+Potentiometer, horizontal, ACP CA14-H4, http://www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf
+Potentiometer horizontal ACP CA14-H4
+0
+3
+3
+Potentiometer_THT
+Potentiometer_ACP_CA14-H5_Horizontal
+Potentiometer, horizontal, ACP CA14-H5, http://www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf
+Potentiometer horizontal ACP CA14-H5
+0
+3
+3
+Potentiometer_THT
+Potentiometer_ACP_CA14V-15_Vertical
+Potentiometer, vertical, ACP CA14V-15, http://www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf
+Potentiometer vertical ACP CA14V-15
+0
+3
+3
+Potentiometer_THT
+Potentiometer_ACP_CA14V-15_Vertical_Hole
+Potentiometer, vertical, shaft hole, ACP CA14V-15, http://www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf
+Potentiometer vertical hole ACP CA14V-15
+0
+3
+3
+Potentiometer_THT
 Potentiometer_Alpha_RD901F-40-00D_Single_Vertical
 Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
 potentiometer vertical 9mm single
 0
 5
 3
-ao_tht
+Potentiometer_THT
 Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles
 Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
 potentiometer vertical 9mm single
 0
 5
 3
-ao_tht
-Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles_centered
-Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
-potentiometer vertical 9mm single
-0
-5
-3
-ao_tht
-Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_centered
-Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
-potentiometer vertical 9mm single
-0
-5
-3
-ao_tht
-Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles_centered
+Potentiometer_THT
+Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical
 Potentiometer, vertical, 9mm, dual, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
 potentiometer vertical 9mm dual
 0
 8
 6
-ao_tht
-Potentiometer_Alpha_RV16AF-20_Single_Horizontal
-Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html
-Potentiometer horizontal Alps RK163 Single
+Potentiometer_THT
+Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles
+Potentiometer, vertical, 9mm, dual, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
+potentiometer vertical 9mm dual
+0
+8
+6
+Potentiometer_THT
+Potentiometer_Alps_RK09K_Single_Horizontal
+Potentiometer, horizontal, Alps RK09K Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K_list.html
+Potentiometer horizontal Alps RK09K Single
+0
+5
+3
+Potentiometer_THT
+Potentiometer_Alps_RK09K_Single_Vertical
+Potentiometer, vertical, Alps RK09K Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K_list.html
+Potentiometer vertical Alps RK09K Single
 0
 3
 3
-ao_tht
+Potentiometer_THT
+Potentiometer_Alps_RK09L_Double_Horizontal
+Potentiometer, horizontal, Alps RK09L Double, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
+Potentiometer horizontal Alps RK09L Double
+0
+8
+6
+Potentiometer_THT
+Potentiometer_Alps_RK09L_Double_Vertical
+Potentiometer, vertical, Alps RK09L Double, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
+Potentiometer vertical Alps RK09L Double
+0
+6
+6
+Potentiometer_THT
+Potentiometer_Alps_RK09L_Single_Horizontal
+Potentiometer, horizontal, Alps RK09L Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
+Potentiometer horizontal Alps RK09L Single
+0
+5
+3
+Potentiometer_THT
+Potentiometer_Alps_RK09L_Single_Vertical
+Potentiometer, vertical, Alps RK09L Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
+Potentiometer vertical Alps RK09L Single
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Alps_RK09Y11_Single_Horizontal
+Potentiometer, horizontal, Alps RK09Y11 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09Y11/RK09Y11_list.html
+Potentiometer horizontal Alps RK09Y11 Single
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Alps_RK097_Dual_Horizontal
+Potentiometer, horizontal, Alps RK097 Dual, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK097/RK097_list.html
+Potentiometer horizontal Alps RK097 Dual
+0
+6
+6
+Potentiometer_THT
+Potentiometer_Alps_RK097_Single_Horizontal
+Potentiometer, horizontal, Alps RK097 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK097/RK097_list.html
+Potentiometer horizontal Alps RK097 Single
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Alps_RK163_Dual_Horizontal
+Potentiometer, horizontal, Alps RK163 Dual, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html
+Potentiometer horizontal Alps RK163 Dual
+0
+6
+6
+Potentiometer_THT
 Potentiometer_Alps_RK163_Single_Horizontal
 Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html
 Potentiometer horizontal Alps RK163 Single
 0
 3
 3
-ao_tht
+Potentiometer_THT
+Potentiometer_Bourns_3005_Horizontal
+Potentiometer, horizontal, Bourns 3005, http://www.bourns.com/docs/Product-Datasheets/3005.pdf
+Potentiometer horizontal Bourns 3005
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3006P_Horizontal
+Potentiometer, horizontal, Bourns 3006P, https://www.bourns.com/docs/Product-Datasheets/3006.pdf
+Potentiometer horizontal Bourns 3006P
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3006W_Horizontal
+Potentiometer, horizontal, Bourns 3006W, https://www.bourns.com/docs/Product-Datasheets/3006.pdf
+Potentiometer horizontal Bourns 3006W
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3006Y_Horizontal
+Potentiometer, horizontal, Bourns 3006Y, https://www.bourns.com/docs/Product-Datasheets/3006.pdf
+Potentiometer horizontal Bourns 3006Y
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3009P_Horizontal
+Potentiometer, horizontal, Bourns 3009P, http://www.bourns.com/docs/Product-Datasheets/3009.pdf
+Potentiometer horizontal Bourns 3009P
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3009Y_Horizontal
+Potentiometer, horizontal, Bourns 3009Y, http://www.bourns.com/docs/Product-Datasheets/3009.pdf
+Potentiometer horizontal Bourns 3009Y
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3266P_Horizontal
+Potentiometer, horizontal, Bourns 3266P, https://www.bourns.com/docs/Product-Datasheets/3266.pdf
+Potentiometer horizontal Bourns 3266P
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3266W_Vertical
+Potentiometer, vertical, Bourns 3266W, https://www.bourns.com/docs/Product-Datasheets/3266.pdf
+Potentiometer vertical Bourns 3266W
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3266X_Horizontal
+Potentiometer, horizontal, Bourns 3266X, https://www.bourns.com/docs/Product-Datasheets/3266.pdf
+Potentiometer horizontal Bourns 3266X
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3266Y_Vertical
+Potentiometer, vertical, Bourns 3266Y, https://www.bourns.com/docs/Product-Datasheets/3266.pdf
+Potentiometer vertical Bourns 3266Y
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3266Z_Horizontal
+Potentiometer, horizontal, Bourns 3266Z, https://www.bourns.com/docs/Product-Datasheets/3266.pdf
+Potentiometer horizontal Bourns 3266Z
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3296P_Horizontal
+Potentiometer, horizontal, Bourns 3296P, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer horizontal Bourns 3296P
+0
+3
+3
+Potentiometer_THT
 Potentiometer_Bourns_3296W_Vertical
 Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf
 Potentiometer vertical Bourns 3296W
 0
 3
 3
-ao_tht
-Potentiometer_Bourns_3296W_Vertical_screw_centered
-Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf
-Potentiometer vertical Bourns 3296W
+Potentiometer_THT
+Potentiometer_Bourns_3296X_Horizontal
+Potentiometer, horizontal, Bourns 3296X, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer horizontal Bourns 3296X
 0
 3
 3
-ao_tht
-Potentiometer_Bourns_3296W_Vertical_standard
-Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf
-Potentiometer vertical Bourns 3296W
+Potentiometer_THT
+Potentiometer_Bourns_3296Y_Vertical
+Potentiometer, vertical, Bourns 3296Y, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer vertical Bourns 3296Y
 0
 3
 3
-ao_tht
-Power_Header
-Through hole straight IDC box header, 2x05, 2.54mm pitch, double rows
-Through hole IDC box header THT 2x05 2.54mm double row
+Potentiometer_THT
+Potentiometer_Bourns_3296Z_Horizontal
+Potentiometer, horizontal, Bourns 3296Z, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer horizontal Bourns 3296Z
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3299P_Horizontal
+Potentiometer, horizontal, Bourns 3299P, https://www.bourns.com/pdfs/3299.pdf
+Potentiometer horizontal Bourns 3299P
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3299W_Vertical
+Potentiometer, vertical, Bourns 3299W, https://www.bourns.com/pdfs/3299.pdf
+Potentiometer vertical Bourns 3299W
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3299X_Horizontal
+Potentiometer, horizontal, Bourns 3299X, https://www.bourns.com/pdfs/3299.pdf
+Potentiometer horizontal Bourns 3299X
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3299Y_Vertical
+Potentiometer, vertical, Bourns 3299Y, https://www.bourns.com/pdfs/3299.pdf
+Potentiometer vertical Bourns 3299Y
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3299Z_Horizontal
+Potentiometer, horizontal, Bourns 3299Z, https://www.bourns.com/pdfs/3299.pdf
+Potentiometer horizontal Bourns 3299Z
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3339H_Vertical
+Potentiometer, vertical, Bourns 3339H, http://www.bourns.com/docs/Product-Datasheets/3339.pdf
+Potentiometer vertical Bourns 3339H
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3339P_Vertical
+Potentiometer, vertical, Bourns 3339P, http://www.bourns.com/docs/Product-Datasheets/3339.pdf
+Potentiometer vertical Bourns 3339P
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3339P_Vertical_HandSoldering
+Potentiometer, vertical, Bourns 3339P, hand-soldering, http://www.bourns.com/docs/Product-Datasheets/3339.pdf
+Potentiometer vertical Bourns 3339P hand-soldering
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3339S_Horizontal
+Potentiometer, horizontal, Bourns 3339S, http://www.bourns.com/docs/Product-Datasheets/3339.pdf
+Potentiometer horizontal Bourns 3339S
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3339W_Horizontal
+Potentiometer, horizontal, Bourns 3339W, http://www.bourns.com/docs/Product-Datasheets/3339.pdf
+Potentiometer horizontal Bourns 3339W
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3386C_Horizontal
+Potentiometer, horizontal, Bourns 3386C, https://www.bourns.com/pdfs/3386.pdf
+Potentiometer horizontal Bourns 3386C
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3386F_Vertical
+Potentiometer, vertical, Bourns 3386F, https://www.bourns.com/pdfs/3386.pdf
+Potentiometer vertical Bourns 3386F
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3386P_Vertical
+Potentiometer, vertical, Bourns 3386P, https://www.bourns.com/pdfs/3386.pdf
+Potentiometer vertical Bourns 3386P
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3386X_Horizontal
+Potentiometer, horizontal, Bourns 3386X, https://www.bourns.com/pdfs/3386.pdf
+Potentiometer horizontal Bourns 3386X
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_PTA1543_Single_Slide
+Bourns single-gang slide potentiometer, 15.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf
+Bourns single-gang slide potentiometer 15.0mm
+0
+7
+4
+Potentiometer_THT
+Potentiometer_Bourns_PTA2043_Single_Slide
+Bourns single-gang slide potentiometer, 20.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf
+Bourns single-gang slide potentiometer 20.0mm
+0
+7
+4
+Potentiometer_THT
+Potentiometer_Bourns_PTA3043_Single_Slide
+Bourns single-gang slide potentiometer, 30.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf
+Bourns single-gang slide potentiometer 30.0mm
+0
+7
+4
+Potentiometer_THT
+Potentiometer_Bourns_PTA4543_Single_Slide
+Bourns single-gang slide potentiometer, 45.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf
+Bourns single-gang slide potentiometer 45.0mm
+0
+7
+4
+Potentiometer_THT
+Potentiometer_Bourns_PTA6043_Single_Slide
+Bourns single-gang slide potentiometer, 60.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf
+Bourns single-gang slide potentiometer 60.0mm
+0
+7
+4
+Potentiometer_THT
+Potentiometer_Bourns_PTV09A-1_Single_Vertical
+Potentiometer, vertical, Bourns PTV09A-1 Single, http://www.bourns.com/docs/Product-Datasheets/ptv09.pdf
+Potentiometer vertical Bourns PTV09A-1 Single
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_PTV09A-2_Single_Horizontal
+Potentiometer, horizontal, Bourns PTV09A-2 Single, http://www.bourns.com/docs/Product-Datasheets/ptv09.pdf
+Potentiometer horizontal Bourns PTV09A-2 Single
+0
+5
+3
+Potentiometer_THT
+Potentiometer_Omeg_PC16BU_Horizontal
+Potentiometer, horizontal, Omeg PC16BU, http://www.omeg.co.uk/pc6bubrc.htm
+Potentiometer horizontal Omeg PC16BU
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Omeg_PC16BU_Vertical
+Potentiometer, vertical, Omeg PC16BU, http://www.omeg.co.uk/pc6bubrc.htm
+Potentiometer vertical Omeg PC16BU
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PC-16_Dual_Horizontal
+Potentiometer, horizontal, Piher PC-16 Dual, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf
+Potentiometer horizontal Piher PC-16 Dual
+0
+6
+6
+Potentiometer_THT
+Potentiometer_Piher_PC-16_Single_Horizontal
+Potentiometer, horizontal, Piher PC-16 Single, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf
+Potentiometer horizontal Piher PC-16 Single
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PC-16_Single_Vertical
+Potentiometer, vertical, Piher PC-16 Single, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf
+Potentiometer vertical Piher PC-16 Single
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PC-16_Triple_Horizontal
+Potentiometer, horizontal, Piher PC-16 Triple, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf
+Potentiometer horizontal Piher PC-16 Triple
+0
+9
+9
+Potentiometer_THT
+Potentiometer_Piher_PT-6-H_Horizontal
+Potentiometer, horizontal, Piher PT-6-H, http://www.piher-nacesa.com/pdf/11-PT6v03.pdf
+Potentiometer horizontal Piher PT-6-H
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-6-V_Vertical
+Potentiometer, vertical, Piher PT-6-V, http://www.piher-nacesa.com/pdf/11-PT6v03.pdf
+Potentiometer vertical Piher PT-6-V
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-6-V_Vertical_Hole
+Potentiometer, vertical, shaft hole, Piher PT-6-V, http://www.piher-nacesa.com/pdf/11-PT6v03.pdf
+Potentiometer vertical hole Piher PT-6-V
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-10-H01_Horizontal
+Potentiometer, horizontal, Piher PT-10-H01, http://www.piher-nacesa.com/pdf/12-PT10v03.pdf
+Potentiometer horizontal Piher PT-10-H01
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-10-H05_Horizontal
+Potentiometer, horizontal, Piher PT-10-H05, http://www.piher-nacesa.com/pdf/12-PT10v03.pdf
+Potentiometer horizontal Piher PT-10-H05
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-10-V05_Vertical
+Potentiometer, vertical, Piher PT-10-V05, http://www.piher-nacesa.com/pdf/12-PT10v03.pdf
+Potentiometer vertical Piher PT-10-V05
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-10-V10_Vertical
+Potentiometer, vertical, Piher PT-10-V10, http://www.piher-nacesa.com/pdf/12-PT10v03.pdf
+Potentiometer vertical Piher PT-10-V10
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-10-V10_Vertical_Hole
+Potentiometer, vertical, shaft hole, Piher PT-10-V10, http://www.piher-nacesa.com/pdf/12-PT10v03.pdf
+Potentiometer vertical hole Piher PT-10-V10
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-H01_Horizontal
+Potentiometer, horizontal, Piher PT-15-H01, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer horizontal Piher PT-15-H01
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-H05_Horizontal
+Potentiometer, horizontal, Piher PT-15-H05, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer horizontal Piher PT-15-H05
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-H06_Horizontal
+Potentiometer, horizontal, Piher PT-15-H06, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer horizontal Piher PT-15-H06
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-H25_Horizontal
+Potentiometer, horizontal, Piher PT-15-H25, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer horizontal Piher PT-15-H25
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-V02_Vertical
+Potentiometer, vertical, Piher PT-15-V02, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer vertical Piher PT-15-V02
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-V02_Vertical_Hole
+Potentiometer, vertical, shaft hole, Piher PT-15-V02, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer vertical hole Piher PT-15-V02
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-V15_Vertical
+Potentiometer, vertical, Piher PT-15-V15, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer vertical Piher PT-15-V15
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-V15_Vertical_Hole
+Potentiometer, vertical, shaft hole, Piher PT-15-V15, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer vertical hole Piher PT-15-V15
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_T-16H_Double_Horizontal
+Potentiometer, horizontal, Piher T-16H Double, http://www.piher-nacesa.com/pdf/22-T16v03.pdf
+Potentiometer horizontal Piher T-16H Double
+0
+6
+6
+Potentiometer_THT
+Potentiometer_Piher_T-16H_Single_Horizontal
+Potentiometer, horizontal, Piher T-16H Single, http://www.piher-nacesa.com/pdf/22-T16v03.pdf
+Potentiometer horizontal Piher T-16H Single
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_T-16L_Single_Vertical_Hole
+Potentiometer, vertical, shaft hole, Piher T-16L Single, http://www.piher-nacesa.com/pdf/22-T16v03.pdf
+Potentiometer vertical hole Piher T-16L Single
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Runtron_RM-063_Horizontal
+Potentiometer, horizontal, Trimmer, RM-063 http://www.runtron.com/down/PDF%20Datasheet/Carbon%20Film%20Potentiometer/RM065%20RM063.pdf
+Potentiometer Trimmer RM-063
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Runtron_RM-065_Vertical
+Potentiometer, vertical, Trimmer, RM-065 http://www.runtron.com/down/PDF%20Datasheet/Carbon%20Film%20Potentiometer/RM065%20RM063.pdf
+Potentiometer Trimmer RM-065
+0
+3
+3
+Potentiometer_THT
+Potentiometer_TT_P0915N
+http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_PanelPot_P09xSeries.pdf
+potentiometer vertical TT P0915N single
+0
+5
+3
+Potentiometer_THT
+Potentiometer_Vishay_43_Horizontal
+Potentiometer, horizontal, Vishay 43, http://www.vishay.com/docs/57026/43.pdf
+Potentiometer horizontal Vishay 43
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Vishay_148-149_Dual_Horizontal
+Potentiometer, horizontal, Vishay 148-149 Dual, http://www.vishay.com/docs/57040/148149.pdf
+Potentiometer horizontal Vishay 148-149 Dual
+0
+6
+6
+Potentiometer_THT
+Potentiometer_Vishay_148-149_Single_Horizontal
+Potentiometer, horizontal, Vishay 148-149 Single, http://www.vishay.com/docs/57040/148149.pdf
+Potentiometer horizontal Vishay 148-149 Single
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Vishay_148-149_Single_Vertical
+Potentiometer, vertical, Vishay 148-149 Single, http://www.vishay.com/docs/57040/148149.pdf
+Potentiometer vertical Vishay 148-149 Single
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Vishay_148E-149E_Dual_Horizontal
+Potentiometer, horizontal, Vishay 148E-149E Dual, http://www.vishay.com/docs/57040/148149.pdf
+Potentiometer horizontal Vishay 148E-149E Dual
 0
 10
-10
-ao_tht
-Push_button_A-5050
-
-
+6
+Potentiometer_THT
+Potentiometer_Vishay_148E-149E_Single_Horizontal
+Potentiometer, horizontal, Vishay 148E-149E Single, http://www.vishay.com/docs/57040/148149.pdf
+Potentiometer horizontal Vishay 148E-149E Single
 0
-2
-2
-ao_tht
-R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
-Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
-0
-2
-2
-ao_tht
-R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
-Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
-0
-2
-2
-ao_tht
-Rotary_Switch
-
-Rotary Switch 4x3/2x6/1x12
-0
-13
-13
-ao_tht
-SOT-23_Handsoldering
-SOT-23, Handsoldering
-SOT-23
+7
+3
+Potentiometer_THT
+Potentiometer_Vishay_248BH-249BH_Single_Horizontal
+Potentiometer, horizontal, Vishay 248BH-249BH Single, http://www.vishay.com/docs/57054/248249.pdf
+Potentiometer horizontal Vishay 248BH-249BH Single
 0
 3
 3
-ao_tht
-SPDT-toggle-switch-1M-series
-
-
+Potentiometer_THT
+Potentiometer_Vishay_248GJ-249GJ_Single_Horizontal
+Potentiometer, horizontal, Vishay 248GJ-249GJ Single, http://www.vishay.com/docs/57054/248249.pdf
+Potentiometer horizontal Vishay 248GJ-249GJ Single
 0
 3
 3
-ao_tht
-SolderWirePad_1x01_Drill0.8mm
-Wire solder connection
-connector
-0
-1
-1
-ao_tht
-SolderWirePad_1x01_Drill1mm
-Wire solder connection
-connector
-0
-1
-1
-ao_tht
-TO-92_Inline_Wide
-TO-92 leads in-line, wide, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
+Potentiometer_THT
+Potentiometer_Vishay_248GJ-249GJ_Single_Vertical
+Potentiometer, vertical, Vishay 248GJ-249GJ Single, http://www.vishay.com/docs/57054/248249.pdf
+Potentiometer vertical Vishay 248GJ-249GJ Single
 0
 3
 3
-ao_tht
-TerminalBlock_Degson_DG301_1x03_P5.00mm_Vertical
-terminal block RND 205-00079, vertical (cable from top), 3 pins, pitch 5mm, size 15x10mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00276_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
-THT terminal block RND 205-00079 vertical pitch 5mm size 15x10mm^2 drill 1.3mm pad 2.5mm
+Potentiometer_THT
+Potentiometer_Vishay_T7-YA_Single_Vertical
+Potentiometer, vertical, Vishay T7-YA Single, http://www.vishay.com/docs/51015/t7.pdf
+Potentiometer vertical Vishay T7-YA Single
 0
 3
 3
-ao_tht
-TerminalBlock_dinkle_pluggable_2_P5.00mm
-simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2
-terminal block bornier2
-0
-2
-2
-ao_tht
-TerminalBlock_dinkle_pluggable_3_P5.00mm
-simple 3-pin terminal block, pitch 5.00mm, revamped version of bornier3
-terminal block bornier2
+Potentiometer_THT
+Potentiometer_Vishay_T73XW_Horizontal
+Potentiometer, horizontal, Vishay T73XW, http://www.vishay.com/docs/51016/t73.pdf
+Potentiometer horizontal Vishay T73XW
 0
 3
 3
-ao_tht
-TestPoint_THTPad_1.5x1.5mm_Drill0.7mm
-THT rectangular pad as test Point, square 1.5mm side length, hole diameter 0.7mm
-test point THT pad rectangle square
-0
-1
-1
-ao_tht
-TestPoint_THTPad_D1.5mm_Drill0.7mm
-THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
-test point THT pad
-0
-1
-1
-ao_tht
-Wall_wart_A-4118
-
-
+Potentiometer_THT
+Potentiometer_Vishay_T73XX_Horizontal
+Potentiometer, horizontal, Vishay T73XX, http://www.vishay.com/docs/51016/t73.pdf
+Potentiometer horizontal Vishay T73XX
 0
 3
 3
-ao_tht
-analogoutput
-
-
+Potentiometer_THT
+Potentiometer_Vishay_T73YP_Vertical
+Potentiometer, vertical, Vishay T73YP, http://www.vishay.com/docs/51016/t73.pdf
+Potentiometer vertical Vishay T73YP
 0
-0
-0
-ao_tht
-analogoutput_12mm
-
-
-0
-0
-0
+3
+3
