@@ -8,6 +8,6 @@ Would there be a use for a Hero Breakout module? Just link to 4 buffered jacks..
 
 ## Caveat emptor
 
-Bourns 3296P 10k trimmers are specified for the panel accessible trimmers. Similar trimmers from other manufacturers *may* differ slightly in their dimensions which may cause misalignment between panel and PCB. Compare datasheets carefully before buying. Bourns is more expensive than some but was chosen because it seems more readily available.
+Bourns 3296P 10k trimmers are specified for the panel accessible trimmers. Bourns PV36 trimmers seem to have the same specs and dimensions; I don't know why both exist. Either should work. Similar trimmers from other manufacturers *may* differ slightly in their dimensions which may cause misalignment between panel and PCB. Compare datasheets carefully before buying. Bourns is more expensive than some but was chosen because it seems more readily available from multiple vendors.
 
 The jacks are from Tayda, SKU A-1122 or A-3617 (seemingly identical). This appears to be the same as jacks sold under the model number PJ-644C elsewhere. Again, similar looking jacks from other sources may have slightly different dimensions.
