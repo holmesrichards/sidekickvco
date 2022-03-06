@@ -1930,10 +1930,10 @@
       (reference "C17") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/00000000-0000-0000-0000-0000619fd1d7/00000000-0000-0000-0000-000062fc8318"
-      (reference "C18") (unit 1) (value "330pF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
+      (reference "C18") (unit 1) (value "330pF") (footprint "ao_tht:C_Disc_D5.0mm_W2.5mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-0000619fd1d7/00000000-0000-0000-0000-000062fc8383"
-      (reference "C19") (unit 1) (value "330pF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
+      (reference "C19") (unit 1) (value "330pF") (footprint "ao_tht:C_Disc_D5.0mm_W2.5mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-000061942543/5441efdd-a0e4-45d1-833f-5b659e970358"
       (reference "C20") (unit 1) (value "10nF") (footprint "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
