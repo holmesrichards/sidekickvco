@@ -86,8 +86,8 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "ignore",
-        "silk_overlap": "ignore",
+        "silk_over_copper": "warning",
+        "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -442,7 +442,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "herovco_back.kicad_pro",
+    "filename": "sidekickvco_b1.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -497,9 +497,7 @@
         "name": "Power",
         "nets": [
           "+12V",
-          "+12V_1",
           "-12V",
-          "-12V_1",
           "-5V",
           "/Jacks, power, etc/+12V_IN",
           "/Jacks, power, etc/-12V_IN"
@@ -573,7 +571,7 @@
     ],
     [
       "00000000-0000-0000-0000-000061942543",
-      "Front PCB"
+      "Main PCB"
     ],
     [
       "00000000-0000-0000-0000-000061a0b1ab",
@@ -581,7 +579,7 @@
     ],
     [
       "00000000-0000-0000-0000-0000619704e4",
-      "Octave and sync switches"
+      "Panel mounted components"
     ],
     [
       "00000000-0000-0000-0000-0000619fd1d7",

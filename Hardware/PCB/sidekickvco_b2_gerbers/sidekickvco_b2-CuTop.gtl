@@ -1,0 +1,126 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,6.0.2-378541a8eb~116~ubuntu20.04.1*
+G04 #@! TF.CreationDate,2022-03-12T16:40:10-05:00*
+G04 #@! TF.ProjectId,sidekickvco_b2,73696465-6b69-4636-9b76-636f5f62322e,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L1,Top*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 6.0.2-378541a8eb~116~ubuntu20.04.1) date 2022-03-12 16:40:10*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMRoundRect*
+0 Rectangle with rounded corners*
+0 $1 Rounding radius*
+0 $2 $3 $4 $5 $6 $7 $8 $9 X,Y pos of 4 corners*
+0 Add a 4 corners polygon primitive as box body*
+4,1,4,$2,$3,$4,$5,$6,$7,$8,$9,$2,$3,0*
+0 Add four circle primitives for the rounded corners*
+1,1,$1+$1,$2,$3*
+1,1,$1+$1,$4,$5*
+1,1,$1+$1,$6,$7*
+1,1,$1+$1,$8,$9*
+0 Add four rect primitives between the rounded corners*
+20,1,$1+$1,$2,$3,$4,$5,0*
+20,1,$1+$1,$4,$5,$6,$7,0*
+20,1,$1+$1,$6,$7,$8,$9,0*
+20,1,$1+$1,$8,$9,$2,$3,0*%
+G04 Aperture macros list end*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD10C,2.100000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,WasherPad*
+%ADD11C,1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD12R,1.600000X1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD13C,1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD14RoundRect,0.250001X-0.799999X-0.799999X0.799999X-0.799999X0.799999X0.799999X-0.799999X0.799999X0*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
+%ADD15C,0.250000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.P,J15,1,Pin_1*
+G04 #@! TO.N,Board_0-/Panel mounted components/SYNCA_P*
+X152389999Y-91009999D03*
+G04 #@! TD*
+D11*
+G04 #@! TO.P,SW2,*
+G04 #@! TO.N,*
+X138938199Y-104820399D03*
+X155138199Y-99220399D03*
+D12*
+G04 #@! TO.P,SW2,1,1*
+G04 #@! TO.N,Board_0-/Panel mounted components/SOFT_SYNC_OFF_P*
+X143038199Y-103270399D03*
+D13*
+G04 #@! TO.P,SW2,2,2*
+G04 #@! TO.N,Board_0-/Panel mounted components/SOFT_SYNCA_P*
+X148038199Y-103270399D03*
+G04 #@! TO.P,SW2,3,3*
+G04 #@! TO.N,Board_0-/Panel mounted components/SOFT_SYNC_OFF_P*
+X150538199Y-103270399D03*
+G04 #@! TO.P,SW2,4,4*
+G04 #@! TO.N,Board_0-unconnected-(SW2-Pad4)*
+X153038199Y-103270399D03*
+G04 #@! TO.P,SW2,5,5*
+G04 #@! TO.N,Board_0-/Panel mounted components/HARD_SYNCA_P*
+X143038199Y-100770399D03*
+G04 #@! TO.P,SW2,6,6*
+G04 #@! TO.N,Board_0-/Panel mounted components/SYNCA_P*
+X148038199Y-100770399D03*
+G04 #@! TO.P,SW2,7,7*
+G04 #@! TO.N,Board_0-unconnected-(SW2-Pad7)*
+X150538199Y-100770399D03*
+G04 #@! TO.P,SW2,8,8*
+G04 #@! TO.N,Board_0-/Panel mounted components/SOFT_SYNCA_P*
+X153038199Y-100770399D03*
+G04 #@! TD*
+D14*
+G04 #@! TO.P,J14,1,Pin_1*
+G04 #@! TO.N,Board_0-/Panel mounted components/HARD_SYNCA_P*
+X148579999Y-91009999D03*
+G04 #@! TD*
+D10*
+G04 #@! TO.P,J17,1,Pin_1*
+G04 #@! TO.N,Board_0-/Panel mounted components/SOFT_SYNCA_P*
+X160009999Y-91009999D03*
+G04 #@! TD*
+G04 #@! TO.P,J16,1,Pin_1*
+G04 #@! TO.N,Board_0-/Panel mounted components/SOFT_SYNC_OFF_P*
+X156199999Y-91009999D03*
+G04 #@! TD*
+D15*
+G04 #@! TO.N,Board_0-/Panel mounted components/HARD_SYNCA_P*
+X143038199Y-96551799D02*
+X148579999Y-91009999D01*
+X143038199Y-100770399D02*
+X143038199Y-96551799D01*
+G04 #@! TO.N,Board_0-/Panel mounted components/SOFT_SYNCA_P*
+X153038199Y-97981799D02*
+X160009999Y-91009999D01*
+X153038199Y-100770399D02*
+X153038199Y-97981799D01*
+G04 #@! TO.N,Board_0-/Panel mounted components/SOFT_SYNC_OFF_P*
+X151662710Y-95547288D02*
+X156199999Y-91009999D01*
+X150538199Y-103270399D02*
+X151662710Y-102145888D01*
+X151662710Y-102145888D02*
+X151662710Y-95547288D01*
+G04 #@! TO.N,Board_0-/Panel mounted components/SYNCA_P*
+X148038199Y-95361799D02*
+X152389999Y-91009999D01*
+X148038199Y-100770399D02*
+X148038199Y-95361799D01*
+G04 #@! TD*
+M02*

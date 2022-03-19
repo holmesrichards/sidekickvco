@@ -1,0 +1,27 @@
+Drill report for sidekick_panel.kicad_pcb
+Created on Sat Mar 12 17:16:05 2022
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'sidekick_panel.drl' contains
+    plated through holes:
+    =============================================================
+    T1  3.200mm  0.1260"  (4 holes)  (with 4 slots)
+    T2  7.000mm  0.2756"  (1 hole)
+    T3  10.000mm  0.3937"  (4 holes)
+    T4  11.000mm  0.4331"  (4 holes)
+
+    Total plated holes count 13
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T5  2.500mm  0.0984"  (4 holes)
+    T6  3.200mm  0.1260"  (2 holes)
+
+    Total unplated holes count 6

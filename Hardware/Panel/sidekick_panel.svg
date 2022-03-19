@@ -5,7 +5,7 @@
    viewBox="0 0 8.5 11"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
    sodipodi:docname="sidekick_panel.svg"
    inkscape:export-filename="/home/rsholmes/Google Drive/Hobbies/Music/Instruments/synths/aaaa My modular/New KosmoCase/VCO/AO 3340 VCO/3340vco_panel.png"
    inkscape:export-xdpi="101.33189"
@@ -353,9 +353,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2020815"
-     inkscape:cx="535.32144"
-     inkscape:cy="504.95745"
+     inkscape:zoom="0.60104075"
+     inkscape:cx="398.47548"
+     inkscape:cy="555.70276"
      inkscape:document-units="mm"
      inkscape:current-layer="layer15"
      showgrid="false"
@@ -370,7 +370,7 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-others="true"
      inkscape:snap-grids="true"
-     inkscape:snap-nodes="true"
+     inkscape:snap-nodes="false"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
@@ -396,8 +396,8 @@
        spacingx="0.039370079"
        spacingy="0.039370079"
        empspacing="5"
-       originx="-1.5018493e-08"
-       originy="0.80060637" />
+       originx="0"
+       originy="0" />
     <sodipodi:guide
        position="1.9685039,4.5039372"
        orientation="1,0"
@@ -464,7 +464,7 @@
        id="guide2024"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2.9527558,7.8508963"
+       position="2.9527545,7.7327861"
        orientation="0,1"
        id="guide2276"
        inkscape:locked="false" />
@@ -472,11 +472,6 @@
        position="4.9212599,7.6535431"
        orientation="1,0"
        id="guide2278"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2.9527559,6.2755906"
-       orientation="0,1"
-       id="guide2280"
        inkscape:locked="false" />
     <sodipodi:guide
        position="4.9212599,4.503937"
@@ -1207,7 +1202,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Behind panel 1"
-     style="display:inline"
+     style="display:none"
      transform="translate(-1.5018493e-8,0.80060637)" />
   <g
      inkscape:groupmode="layer"
@@ -1416,15 +1411,15 @@
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
     <circle
        r="0.51181102"
-       cy="2.3567083"
-       cx="2.9527559"
+       cy="2.4666076"
+       cx="2.9527545"
        id="circle2145"
        style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="101.33189"
        inkscape:export-ydpi="101.33189"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
     <g
-       transform="translate(8.8582679,-1.6431263)"
+       transform="translate(8.8582665,-1.5250156)"
        id="g2161"
        inkscape:export-xdpi="101.33189"
        inkscape:export-ydpi="101.33189"
@@ -1725,9 +1720,9 @@
        width="1.9685053"
        id="rect2111-6"
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="1000.0191"
+       inkscape:export-ydpi="1000.0191"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_holes.png" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1742,27 +1737,27 @@
        width="1.9685056"
        id="rect829-4"
        style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.0208334"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path1048"
        d="M 1.9685041,1.5615978 H 3.937008"
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0312501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        sodipodi:nodetypes="cc"
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 1.9685041,8.6482121 H 3.9370093"
        id="path1050"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.249999px;line-height:0;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="flowRoot3370"
@@ -1789,9 +1784,9 @@
        x="2.9539905"
        y="1.4323473"
        id="text3008-6"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"><tspan
          sodipodi:role="line"
          id="tspan3006-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.194444px;font-family:Limelight;-inkscape-font-specification:Limelight;fill:#000000;stroke:none;stroke-width:0.0208333"
@@ -1812,7 +1807,7 @@
        id="text2742"
        inkscape:export-xdpi="999.99945"
        inkscape:export-ydpi="999.99945"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Hero VCO/Images/herovco_panel_art.png"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan2740"
          x="2.1259851"
@@ -1826,7 +1821,7 @@
        x="2.7952766"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Hero VCO/Images/herovco_panel_art.png"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="5.1836452"
          x="2.7952766"
@@ -1840,7 +1835,7 @@
        x="2.4606309"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Hero VCO/Images/herovco_panel_art.png"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="5.1836452"
          x="2.4606309"
@@ -3320,64 +3315,45 @@
        cx="2.4606314"
        id="circle2487"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle2539"
        cx="2.4606314"
        cy="8.0576658"
        r="0.27559054"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.194444px;line-height:1;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="2.9527559"
-       y="3.0970311"
-       id="text5914"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png"><tspan
-         sodipodi:role="line"
-         id="tspan5912"
-         x="2.9527559"
-         y="3.0970311"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">OCTAVE</tspan><tspan
-         sodipodi:role="line"
-         x="2.9527559"
-         y="3.3041382"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         id="tspan7612">OFFSET</tspan></text>
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <circle
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-xdpi="101.33189"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="999.99945"
        r="0.27559054"
        cy="8.0576611"
        cx="3.4448819"
        id="circle2772"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <circle
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-xdpi="101.33189"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="999.99945"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle2778"
        cx="3.4448819"
        cy="7.0734091"
        r="0.27559054"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <circle
-       cy="2.3567164"
-       cx="2.9527388"
+       cy="2.4666076"
+       cx="2.9527545"
        id="circle1639"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <rect
        y="6.280798"
        x="2.7755942"
@@ -3385,9 +3361,9 @@
        width="0.35433057"
        id="rect2784"
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.00707674;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <rect
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.00944092;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4889"
@@ -3396,240 +3372,80 @@
        x="2.0472441"
        y="6.6403427"
        ry="0"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <circle
        r="0.27559054"
        cy="7.0734162"
        cx="2.4606314"
        id="circle4891"
        style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <circle
        style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4893"
        cx="2.4606314"
        cy="8.0576668"
        r="0.27559054"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <text
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-xdpi="101.33189"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="999.99945"
        id="text4897"
-       y="4.5875621"
-       x="2.9527559"
+       y="4.7450428"
+       x="2.9527545"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="4.5875621"
-         x="2.9527559"
+         y="4.7450428"
+         x="2.9527545"
          id="tspan4895"
          sodipodi:role="line">FINE OFFSET</tspan></text>
-    <circle
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-xdpi="101.33189"
-       r="0.27559054"
-       cy="8.057662"
-       cx="3.4448824"
-       id="circle4927"
-       style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
-    <circle
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-xdpi="101.33189"
-       style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle4933"
-       cx="3.4448824"
-       cy="7.0734105"
-       r="0.27559054"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
-    <g
-       id="g8849"
-       transform="matrix(0.83,0,0,0.83,0.50196939,0.41568372)"
-       style="stroke-width:1.20482"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189">
-      <text
-         id="text1669"
-         y="2.7974601"
-         x="2.2500467"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0125596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"
-         transform="scale(0.99735452,1.0026525)"
-         inkscape:export-xdpi="101.33189"
-         inkscape:export-ydpi="101.33189"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0125596"
-           y="2.7974601"
-           x="2.2500467"
-           id="tspan1667"
-           sodipodi:role="line">-4</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0125596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="2.1710978"
-         y="2.4243646"
-         id="text1675"
-         transform="scale(0.99735452,1.0026525)"
-         inkscape:export-xdpi="101.33189"
-         inkscape:export-ydpi="101.33189"><tspan
-           sodipodi:role="line"
-           id="tspan1673"
-           x="2.1710978"
-           y="2.4243646"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0125596">-3</tspan></text>
-      <text
-         id="text1679"
-         y="2.0434248"
-         x="2.250047"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0125596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"
-         transform="scale(0.99735452,1.0026525)"
-         inkscape:export-xdpi="101.33189"
-         inkscape:export-ydpi="101.33189"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0125596"
-           y="2.0434248"
-           x="2.250047"
-           id="tspan1677"
-           sodipodi:role="line">-2</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0125596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="2.9590633"
-         y="1.6675547"
-         id="text1683"
-         transform="scale(0.99735452,1.0026525)"
-         inkscape:export-xdpi="101.33189"
-         inkscape:export-ydpi="101.33189"><tspan
-           sodipodi:role="line"
-           id="tspan1681"
-           x="2.9590633"
-           y="1.6675547"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0125596">0</tspan></text>
-      <text
-         id="text1687"
-         y="1.76873"
-         x="2.5814643"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0125596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"
-         transform="scale(0.99735452,1.0026525)"
-         inkscape:export-xdpi="101.33189"
-         inkscape:export-ydpi="101.33189"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0125596"
-           y="1.76873"
-           x="2.5814643"
-           id="tspan1685"
-           sodipodi:role="line">-1</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0125596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="3.336199"
-         y="1.76701"
-         id="text1691"
-         transform="scale(0.99735452,1.0026525)"
-         inkscape:export-xdpi="101.33189"
-         inkscape:export-ydpi="101.33189"><tspan
-           sodipodi:role="line"
-           id="tspan1689"
-           x="3.336199"
-           y="1.76701"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0125596">1</tspan></text>
-      <text
-         id="text1695"
-         y="2.040446"
-         x="3.6118188"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0125596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"
-         transform="scale(0.99735452,1.0026525)"
-         inkscape:export-xdpi="101.33189"
-         inkscape:export-ydpi="101.33189"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0125596"
-           y="2.040446"
-           x="3.6118188"
-           id="tspan1693"
-           sodipodi:role="line">2</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0125596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="3.7120693"
-         y="2.4145966"
-         id="text1699"
-         transform="scale(0.99735452,1.0026525)"
-         inkscape:export-xdpi="101.33189"
-         inkscape:export-ydpi="101.33189"><tspan
-           sodipodi:role="line"
-           id="tspan1697"
-           x="3.7120693"
-           y="2.4145966"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0125596">3</tspan></text>
-      <text
-         id="text1703"
-         y="2.7892075"
-         x="3.6100898"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0125596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"
-         transform="scale(0.99735452,1.0026525)"
-         inkscape:export-xdpi="101.33189"
-         inkscape:export-ydpi="101.33189"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0125596"
-           y="2.7892075"
-           x="3.6100898"
-           id="tspan1701"
-           sodipodi:role="line">4</tspan></text>
-      <circle
-         cy="2.3385837"
-         cx="2.952755"
-         id="circle4959"
-         style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00125502;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         r="0.17716536"
-         inkscape:export-xdpi="101.33189"
-         inkscape:export-ydpi="101.33189" />
-    </g>
     <circle
        r="0.17716536"
        style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4965"
-       cx="2.9527559"
-       cy="3.9238024"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       cx="2.9527545"
+       cy="4.041913"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.303149,7.6245901 2.46063,7.4671097 2.61811,7.6245901"
        id="path4971"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3.2952143,8.5301045 V 8.3726242 l 0.196848,-2.7e-6 v 0.1574803 l 0.118112,2.7e-6 v 0"
        id="path4975"
        sodipodi:nodetypes="cccccc"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.2874015,7.6245899 c 0.07874,0 0.07874,-0.1574802 0.157481,-0.1574802 0.07874,0 0.07874,0.1574802 0.15748,0.1574802"
        id="path4973"
        sodipodi:nodetypes="csc"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.6137923,8.5301032 V 8.3726228 l -0.314961,0.1574804"
        id="path4977"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <text
        xml:space="preserve"
        style="font-size:0.125px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;stop-color:#000000"
@@ -3648,9 +3464,9 @@
        y="8.0423498"
        id="text3008"
        transform="scale(0.90235092,1.1082163)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"><tspan
          sodipodi:role="line"
          id="tspan3006"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.175457px;font-family:Limelight;-inkscape-font-specification:Limelight;fill:#000000;stroke:none;stroke-width:0.0208333"
@@ -3662,91 +3478,73 @@
        cx="2.4606314"
        id="circle1917"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
-    <circle
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-xdpi="101.33189"
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1919"
-       cx="3.4448819"
-       cy="6.0891571"
-       r="0.27559054"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <circle
        r="0.27559054"
        cy="6.0891643"
        cx="2.4606314"
        id="circle1921"
        style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.4606314"
        y="6.5615993"
        id="text1925"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png"><tspan
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan1923"
          x="2.4606314"
          y="6.5615993"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">LIN FM</tspan></text>
-    <circle
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-xdpi="101.33189"
-       style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1927"
-       cx="3.4448824"
-       cy="6.0891585"
-       r="0.27559054"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="3.4448824"
        y="6.5615993"
        id="text1931"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png"><tspan
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan1929"
          x="3.4448824"
          y="6.5615993"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">PWM</tspan></text>
     <circle
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-xdpi="101.33189"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="999.99945"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle2543"
        cx="3.4448819"
        cy="5.1049051"
        r="0.27559054"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <circle
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-xdpi="101.33189"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="999.99945"
        style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle2545"
        cx="3.4448824"
        cy="5.1049066"
-       r="0.27559054"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       r="0.2952756" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="3.4448824"
        y="5.5773473"
        id="text2549"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png"><tspan
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan2547"
          x="3.4448824"
@@ -3760,7 +3558,7 @@
        id="text2806-7"
        inkscape:export-xdpi="999.99945"
        inkscape:export-ydpi="999.99945"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Hero VCO/Images/herovco_panel_art.png"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan2804-0"
@@ -3775,7 +3573,7 @@
        x="-3.0970304"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.111111px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Hero VCO/Images/herovco_panel_art.png"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
        transform="rotate(-90)"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.111111px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="3.7795277"
@@ -3790,7 +3588,7 @@
        id="text2816-6"
        inkscape:export-xdpi="999.99945"
        inkscape:export-ydpi="999.99945"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Hero VCO/Images/herovco_panel_art.png"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan2814-0"
@@ -3805,7 +3603,7 @@
        id="text1987"
        inkscape:export-xdpi="999.99945"
        inkscape:export-ydpi="999.99945"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Hero VCO/Images/herovco_panel_art.png"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan1985"
@@ -3818,9 +3616,9 @@
        x="2.4606299"
        y="5.5773473"
        id="text7524"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png"><tspan
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan7522"
          x="2.4606299"
@@ -3847,11 +3645,217 @@
          sodipodi:role="line"
          id="tspan7264"
          x="283.46445"
-         y="374.17319"></tspan><tspan
+         y="374.17319" /><tspan
          sodipodi:role="line"
          id="tspan7268"
          x="283.46445"
          y="392.83987" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="2.9527543"
+       y="3.3671529"
+       id="text5914-9"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
+         sodipodi:role="line"
+         x="2.9527543"
+         y="3.3671529"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
+         id="tspan19141">OCTAVE OFFSET</tspan></text>
+    <text
+       id="text1669"
+       y="2.9251454"
+       x="2.2637851"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.99735452,1.0026525)"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104245"
+         y="2.9251454"
+         x="2.2637851"
+         id="tspan1667"
+         sodipodi:role="line">-1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="2.198926"
+       y="2.5520499"
+       id="text1675"
+       transform="scale(0.99735452,1.0026525)"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
+         sodipodi:role="line"
+         id="tspan1673"
+         x="2.198926"
+         y="2.5520499"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104245">0</tspan></text>
+    <text
+       id="text1679"
+       y="2.1711102"
+       x="2.363163"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.99735452,1.0026525)"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.0104245"
+         y="2.1711102"
+         x="2.363163"
+         id="tspan1677"
+         sodipodi:role="line">-2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="2.9590631"
+       y="1.7952402"
+       id="text1683"
+       transform="scale(0.99735452,1.0026525)"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
+         sodipodi:role="line"
+         id="tspan1681"
+         x="2.9590631"
+         y="1.7952402"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104245">0</tspan></text>
+    <text
+       id="text1687"
+       y="1.8964154"
+       x="2.6033838"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.99735452,1.0026525)"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.0104245"
+         y="1.8964154"
+         x="2.6033838"
+         id="tspan1685"
+         sodipodi:role="line">-1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="3.4051747"
+       y="1.8946954"
+       id="text1691"
+       transform="scale(0.99735452,1.0026525)"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
+         sodipodi:role="line"
+         id="tspan1689"
+         x="3.4051747"
+         y="1.8946954"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.0104245">+1</tspan></text>
+    <text
+       id="text1695"
+       y="2.1681314"
+       x="3.5081756"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.99735452,1.0026525)"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.0104245"
+         y="2.1681314"
+         x="3.5081756"
+         id="tspan1693"
+         sodipodi:role="line">+2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="3.712069"
+       y="2.5422819"
+       id="text1699"
+       transform="scale(0.99735452,1.0026525)"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
+         sodipodi:role="line"
+         id="tspan1697"
+         x="3.712069"
+         y="2.5422819"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104245">6</tspan></text>
+    <text
+       id="text1703"
+       y="2.9168928"
+       x="3.6100895"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.99735452,1.0026525)"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104245"
+         y="2.9168928"
+         x="3.6100895"
+         id="tspan1701"
+         sodipodi:role="line">7</tspan></text>
+    <text
+       id="text1687-2"
+       y="3.1999846"
+       x="3.3397098"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.99735452,1.0026525)"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104245"
+         y="3.1999846"
+         x="3.3397098"
+         id="tspan1685-6"
+         sodipodi:role="line">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.578612px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="2.5461946"
+       y="3.201705"
+       id="text1691-1"
+       transform="scale(0.99735452,1.0026525)"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"><tspan
+         sodipodi:role="line"
+         id="tspan1689-8"
+         x="2.5461946"
+         y="3.201705"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.241088px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104245">-2</tspan></text>
+    <circle
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="999.99945"
+       style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5291"
+       cx="3.4448819"
+       cy="6.0891571"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       r="0.2952756" />
+    <circle
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="999.99945"
+       style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5293"
+       cx="3.4448819"
+       cy="7.0734086"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       r="0.2952756" />
+    <circle
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="999.99945"
+       style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5295"
+       cx="3.4448819"
+       cy="8.0576611"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       r="0.2952756" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3863,9 +3867,9 @@
        id="g9863"
        style="display:inline;fill:#000000"
        transform="translate(6.3661421,8.4907258)"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png">
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png">
       <circle
          transform="scale(-1,1)"
          r="0.062992252"
@@ -3892,9 +3896,9 @@
        transform="translate(4.7440948,8.4907258)"
        style="display:inline;fill:#000000"
        id="g9871"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png">
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png">
       <circle
          style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle9865"
@@ -3921,9 +3925,9 @@
        transform="translate(6.3661421,0.85293179)"
        style="display:inline;fill:#000000"
        id="g9855"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png">
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png">
       <circle
          style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle9849"
@@ -3950,9 +3954,9 @@
        id="g9847"
        style="display:inline;fill:#000000"
        transform="translate(4.7440948,0.85293179)"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png">
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png">
       <circle
          transform="scale(-1,1)"
          r="0.062992252"
@@ -4285,116 +4289,116 @@
        cx="2.4606314"
        id="circle2499"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        inkscape:connector-curvature="0"
        id="path2501"
        d="M 2.460627,6.97499 V 7.1718405"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        inkscape:connector-curvature="0"
        id="path2503"
        d="M 2.559052,7.0734152 H 2.362202"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle2551"
        cx="2.4606314"
        cy="8.0576658"
        r="0.19685039"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.460627,7.9592409 V 8.1560914"
        id="path2553"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.559052,8.0576661 H 2.362202"
        id="path2555"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2.9527547,2.2894314 V 2.4085679"
+       d="M 2.95275,2.4070401 V 2.5261766"
        id="path5918"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 3.0123224,2.3489996 H 2.8931871"
+       d="M 3.0123177,2.4666083 H 2.8931824"
        id="path5920"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <circle
-       cy="3.9238033"
+       cy="4.041913"
        cx="2.9527545"
        id="circle5934"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       r="0.098425195"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       r="0.13779527" />
     <path
        inkscape:connector-curvature="0"
        id="path5936"
-       d="m 2.9527548,3.8844328 v 0.07874"
+       d="m 2.9527544,4.0038704 v 0.07874"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        inkscape:connector-curvature="0"
        id="path5938"
-       d="M 2.992125,3.9224756 H 2.913385"
+       d="m 2.9921246,4.0419132 h -0.07874"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <circle
-       r="0.13779527"
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3675-1"
-       cx="2.9527593"
-       cy="2.3489988"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       cx="2.9527545"
+       cy="2.4666076"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       r="0.19685039" />
     <path
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2.9527548,2.2505744 V 2.4474249"
+       d="M 2.9527501,2.3681831 V 2.5650336"
        id="path3677-4"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 3.0511799,2.3489996 H 2.8543298"
+       d="M 3.0511752,2.4666083 H 2.8543251"
        id="path3679-9"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <circle
        cy="0.39759487"
        cx="-6.7292027"
@@ -4417,28 +4421,31 @@
        cx="2.4606314"
        id="circle1937"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        inkscape:connector-curvature="0"
        id="path1939"
        d="M 2.460627,5.990738 V 6.1875885"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <path
        inkscape:connector-curvature="0"
        id="path1941"
        d="M 2.559052,6.0891632 H 2.362202"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png" />
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png" />
     <g
        id="g2525"
-       transform="translate(8.6407776e-8,0.01041689)">
+       transform="translate(8.6407776e-8,0.01041689)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945">
       <circle
          cy="5.0944877"
          cx="3.4448824"
@@ -4468,9 +4475,9 @@
     <g
        id="g3180"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_daughterboard.png"
-       inkscape:export-xdpi="1000.1248"
-       inkscape:export-ydpi="1000.1248"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
        transform="translate(8.6407776e-8,0.01041689)">
       <rect
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.993004;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
@@ -4508,9 +4515,9 @@
     </g>
     <g
        id="g6043"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_daughterboard.png"
-       inkscape:export-xdpi="1000.1248"
-       inkscape:export-ydpi="1000.1248"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
        transform="translate(8.6407776e-8,0.01041689)">
       <circle
          r="0.062992126"
@@ -4532,9 +4539,9 @@
     <g
        id="g6051"
        transform="translate(-0.74803141,-0.69824453)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_daughterboard.png"
-       inkscape:export-xdpi="1000.1248"
-       inkscape:export-ydpi="1000.1248">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945">
       <circle
          r="0.062992126"
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4554,7 +4561,10 @@
     </g>
     <g
        id="g2619"
-       transform="translate(8.6407776e-8,0.99466884)">
+       transform="translate(8.6407776e-8,0.99466884)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945">
       <circle
          cy="5.0944877"
          cx="3.4448824"
@@ -4583,7 +4593,10 @@
     </g>
     <g
        id="g2643"
-       transform="translate(8.6407776e-8,1.9789207)">
+       transform="translate(8.6407776e-8,1.9789207)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945">
       <circle
          cy="5.0944877"
          cx="3.4448824"
@@ -4612,7 +4625,10 @@
     </g>
     <g
        id="g2667"
-       transform="translate(8.6407776e-8,2.9631727)">
+       transform="translate(8.6407776e-8,2.9631727)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945">
       <circle
          cy="5.0944877"
          cx="3.4448824"
@@ -4641,7 +4657,10 @@
     </g>
     <g
        id="g3419"
-       transform="rotate(180,2.9122063,3.8004837)">
+       transform="rotate(180,2.9122063,3.8004837)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945">
       <circle
          r="0.049212597"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4670,7 +4689,10 @@
     </g>
     <g
        id="g5956"
-       transform="rotate(180,2.9122063,4.0367042)">
+       transform="rotate(180,2.9122063,4.0367042)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945">
       <circle
          r="0.049212597"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4699,7 +4721,10 @@
     </g>
     <g
        id="g5964"
-       transform="rotate(180,2.9122063,4.2729247)">
+       transform="rotate(180,2.9122063,4.2729247)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945">
       <circle
          r="0.049212597"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4728,7 +4753,10 @@
     </g>
     <g
        id="g5972"
-       transform="rotate(180,2.9122063,4.5091452)">
+       transform="rotate(180,2.9122063,4.5091452)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel_art.png"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945">
       <circle
          r="0.049212597"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5301,36 +5329,6 @@
          transform="rotate(-120)" />
     </g>
     <g
-       style="display:inline"
-       id="g2171"
-       transform="matrix(-0.85870685,0,0,0.85870685,4.9830046,-3.7215064)"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png">
-      <circle
-         r="0.61374104"
-         cy="7.0687695"
-         cx="2.3643098"
-         id="circle2163"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2165"
-         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
-         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         r="0.39753675"
-         cy="7.0687723"
-         cx="2.3643107"
-         id="circle2167"
-         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2169"
-         d="M 2.3622056,6.4724214 V 6.6692718"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
        id="g1957"
        style="display:inline"
        transform="matrix(1.000002,0,0,1.000002,3.0154191,0.11896634)"
@@ -5417,36 +5415,6 @@
          cx="-6.1343951"
          id="circle2564"
          style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       id="g8598"
-       transform="matrix(-0.72831063,0,0,0.72831063,4.6747074,-1.2244594)"
-       style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Sidekick VCO/Images/sidekick_panel.png"
-       inkscape:export-xdpi="101.33189"
-       inkscape:export-ydpi="101.33189">
-      <circle
-         r="0.61374104"
-         cy="7.0687695"
-         cx="2.3643098"
-         id="circle8590"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path8592"
-         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
-         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         r="0.39753675"
-         cy="7.0687723"
-         cx="2.3643107"
-         id="circle8594"
-         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path8596"
-         d="M 2.3622056,6.4724214 V 6.6692718"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <rect
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.993004;-inkscape-stroke:none;stop-color:#000000"
@@ -5674,6 +5642,66 @@
          cx="-6.1343951"
          id="circle2675"
          style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2155"
+       transform="matrix(-1.0495306,0,0,1.0495306,5.4341711,-4.9522853)"
+       style="display:inline"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Hero VCO/Images/herovco_panel_art.png">
+      <circle
+         r="0.61374104"
+         cy="7.0687695"
+         cx="2.3643098"
+         id="circle2147"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2149"
+         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
+         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.39753675"
+         cy="7.0687723"
+         cx="2.3643107"
+         id="circle2151"
+         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2153"
+         d="M 2.3622056,6.4724214 V 6.6692718"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       id="g2171"
+       transform="matrix(-0.85870685,0,0,0.85870685,4.9830056,-2.0363018)"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/VCO/Hero VCO/Images/herovco_panel_art.png">
+      <circle
+         r="0.61374104"
+         cy="7.0687695"
+         cx="2.3643098"
+         id="circle2163"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2165"
+         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
+         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.39753675"
+         cy="7.0687723"
+         cx="2.3643107"
+         id="circle2167"
+         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2169"
+         d="M 2.3622056,6.4724214 V 6.6692718"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
   <g
