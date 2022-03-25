@@ -47,10 +47,11 @@ Generated from schematic by Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1
 | R43 | 1 | 2k | Resistor |  |  | Tayda |  |
 | R45 | 1 | 33k | Resistor |  |  | Tayda |  |
 | R51, R52, R53 | 3 | 9.1k | Resistor |  |  | Tayda |  |
-| RV1, RV2, RV3, RV4 | 4 | 10k | Trim-potentiometer |  |  | Tayda |  |
+| RV1, RV2, RV3 | 3 | 10k | Trim-potentiometer, horizontal side adjust | Bourns | 3296P-1-103LF or PV36P103C01B00 | DigiKey |  |
+| RV4 | 1 | 50k | Trim-potentiometer, horizontal side adjust | Bourns | 3296P-1-503LF or PV36P503C01B00 | DigiKey |  |
 | RV5 | 1 | 100k | Potentiometer |  |  | Tayda |  |
-| RV6, RV7 | 2 | 50k | Trim-potentiometer |  |  | Tayda |  |
-| RV8 | 1 | 5k | Trim-potentiometer |  |  | Tayda |  |
+| RV6, RV7 | 2 | 50k | Trim-potentiometer, vertical top adjust |  |  | Tayda |  |
+| RV8 | 1 | 5k | Trim-potentiometer, vertical top adjust |  |  | Tayda |  |
 | SW1 | 1 | SW_Rotary12 | Rotary switch |  |  | Tayda | A-1893 |
 | SW2 | 1 | SW_DP3T | Switch, three position, dual pole triple throw, 3 position switch, SP3T | C&K | OS203012MU5QP1‎ | Digi-Key | CKN9554-ND |
 | U1 | 1 | TL072 | Dual operational amplifier, DIP-8 |  |  | Tayda | A-037 |
