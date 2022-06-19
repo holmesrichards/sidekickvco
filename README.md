@@ -1,9 +1,5 @@
 # Sidekick VCO
 
-This is a work in progress.
-
-**Untested hardware — Do not assume anything works!**
-
 The Sidekick VCO is a 3340 based voltage controlled oscillator synth module in Kosmo format. Notable features of the Sidekick include:
 
 * Triangle, ramp, pulse, and sine waveforms with separate output jacks.
@@ -26,6 +22,10 @@ The Sidekick design specifies and assumes the Alfa AS3340A VCO chip, an improvem
 
 Thanks for inspiration to several other VCOs: the [Kassutronics VCO 3340](https://kassu2000.blogspot.com/2018/06/vco-3340.html), the [LMNC 1222 Performance VCO](https://www.lookmumnocomputer.com/1222-performance-vco), and the [Thomas Henry VCO Maximus](https://www.birthofasynth.com/Thomas_Henry/Pages/VCO_Maximus-Detail.html).
 
+## Project status
+
+One prototype has been built and it works. There were some very minor issues with the PCB which have been corrected in the design files but the revised version has not been built.
+
 ## Width
 
 5 cm.
@@ -36,27 +36,27 @@ Thanks for inspiration to several other VCOs: the [Kassutronics VCO 3340](https:
 
 ## Photos
 
-![]()
+![](Images/sidekickvco.jpg)
 
-![]()
+![](Images/sidekickvco_pcb.jpg)
 
 ## Documentation
 
-* [Schematic](Docs/.pdf)
-* PCB layout: [front](Docs/_layout_front.pdf), [back](Docs/_layout_back.pdf)
-* [BOM](Docs/_bom.md)
+* [Schematic](Docs/sidekickvco.pdf)
+* PCB layout: [front](Docs/sidekickvco_layout_front.pdf), [back](Docs/sidekickvco_layout_back.pdf)
+* [BOM](Docs/sidekickvco_bom.md)
 * [Build notes](Docs/build.md)
 
 ## GitHub repository
 
-* [https://github.com/holmesrichards/](https://github.com/holmesrichards/)
+* [https://github.com/holmesrichards/sidekickvco](https://github.com/holmesrichards/sidekickvco)
 
 ## Submodules
 
 This repo uses submodules aoKicad and Kosmo_panel, which provide needed libaries for KiCad. To clone:
 
 ```
-git clone git@github.com:holmesrichards/<projectname>.git
+git clone git@github.com:holmesrichards/sidekickvco.git
 git submodule init
 git submodule update
 ```
@@ -65,7 +65,7 @@ git submodule update
 Alternatively do
 
 ```
-git clone --recurse-submodules git@github.com:holmesrichards/<projectname>.git
+git clone --recurse-submodules git@github.com:holmesrichards/sidekickvco.git
 ```
 
 Or if you download the repository as a zip file, you must also click on the "aoKicad" and "Kosmo\_panel" links on the GitHub page (they'll have "@ something" after them) and download them as separate zip files which you can unzip into this repo's aoKicad and Kosmo\_panel directories.
