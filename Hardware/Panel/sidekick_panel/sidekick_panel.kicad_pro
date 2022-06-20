@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.5,
-          "height": 2.5,
-          "width": 2.5
+          "drill": 11.5,
+          "height": 15.0,
+          "width": 15.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -332,7 +332,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Kosmo_50mm.kicad_pro",
+    "filename": "sidekick_panel.kicad_pro",
     "version": 1
   },
   "net_settings": {
