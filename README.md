@@ -46,6 +46,7 @@ One prototype has been built and it works. There were some very minor issues wit
 * PCB layout: [front](Docs/sidekickvco_layout_front.pdf), [back](Docs/sidekickvco_layout_back.pdf)
 * [BOM](Docs/sidekickvco_bom.md)
 * [Build notes](Docs/build.md)
+* [Blog post](https://analogoutputblog.wordpress.com/2022/06/20/hero-and-sidekick/)
 
 ## GitHub repository
 
