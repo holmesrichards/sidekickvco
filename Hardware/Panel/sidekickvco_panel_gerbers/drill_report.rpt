@@ -1,5 +1,5 @@
 Drill report for sidekick_panel.kicad_pcb
-Created on Sat Mar 12 17:16:05 2022
+Created on Mon Jun 20 16:59:35 2022
 
 Copper Layer Stackup:
     =============================================================
@@ -13,7 +13,7 @@ Drill file 'sidekick_panel.drl' contains
     T1  3.200mm  0.1260"  (4 holes)  (with 4 slots)
     T2  7.000mm  0.2756"  (1 hole)
     T3  10.000mm  0.3937"  (4 holes)
-    T4  11.000mm  0.4331"  (4 holes)
+    T4  11.500mm  0.4528"  (4 holes)
 
     Total plated holes count 13
 
