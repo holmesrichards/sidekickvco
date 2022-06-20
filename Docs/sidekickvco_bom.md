@@ -59,6 +59,8 @@ Generated from schematic by Eeschema 6.0.5-a6ca702e91~116~ubuntu20.04.1
 | U3, U4 | 2 | LM4040BIZ-5 | 5.000V Precision Micropower Shunt Voltage Reference, TO-92 |  |  | Digi-Key | LM4040BIZ-5/NOPB-ND |
 | U5 | 1 | L79L05_TO92 | Negative 100mA -30V Linear Regulator, Fixed Output -5V, TO-92 |  |  | Tayda | A-4676 |
 | U6 | 1 | TL074 | Quad operational amplifier, DIP-14 |  |  | Tayda | A-1138 |
+| | 2 or more* | | 8 pin IDC connector | | | Tayda | A-3346 |
+| | Length as needed | | 8 conductor ribbon cable | | | Tayda | A-4935 |
 | | 2 | | Knob | | | | |
 | | 1 | | 8 pin DIP socket | | | Tayda | A-001 |
 | | 1 | | 14 pin DIP socket | | | Tayda | A-004 |
@@ -67,6 +69,8 @@ Generated from schematic by Eeschema 6.0.5-a6ca702e91~116~ubuntu20.04.1
 | | 2 | | 5 mm spacer | | | Tayda | A-1235 |
 | | 2 | | M3 nut | | | | |
     
+\* One connector for Hero and one for each Sidekick connecting to it
+
 ## Caveat emptor
 
 Bourns 3296P 10k trimmers are specified for the panel accessible trimmers. Bourns PV36 trimmers seem to have the same specs and dimensions, as do Nidec Copal CT94E trimmers. Any of these should work. Similar trimmers from other manufacturers *may* differ slightly in their dimensions which may cause misalignment between panel and PCB. Compare datasheets carefully before buying.
