@@ -1,3 +1,9 @@
+# Sidekick VCO build notes
+
+## Which chip
+
+The design specifies and assumes the Alfa AS3340A VCO chip, an improvement to the AS3340, although the AS3340 or Curtis CEM3340 probably would work. I have not tested either extensively. The CEM datasheet says the pulse output should have a 10k pulldown, versus 51k for the AS3340(A), though reportedly anything in that range works acceptably for either (see Sam Battle's LMNC 1222 schematic). If using CEM and you want to stick to the datasheet you could try changing R45 from 33k to 6.2k and R47 from 18k to 3.6k.
+
 ## Resistor matching
 
 For proper V/oct tuning, certain groups of resistors need to be matched to one another to high precision. You can buy 0.1% precision resistors, but it is much cheaper to buy 100 or so 1% resistors and then measure them, setting aside ones that match at the 0.1% level. The actual value of the resistance is not critical, only that it be the same for resistors in each group. Different groups do not need to match each other.
