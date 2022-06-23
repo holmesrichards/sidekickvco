@@ -1,5 +1,5 @@
 Drill report for sidekickvco_b1.kicad_pcb
-Created on Sun Jun 19 14:06:22 2022
+Created on Thu Jun 23 09:18:34 2022
 
 Copper Layer Stackup:
     =============================================================
@@ -10,16 +10,16 @@ Copper Layer Stackup:
 Drill file 'sidekickvco_b1.drl' contains
     plated through holes:
     =============================================================
-    T1  0.400mm  0.0157"  (3 holes)
+    T1  0.400mm  0.0157"  (4 holes)
     T2  0.700mm  0.0276"  (6 holes)
-    T3  0.800mm  0.0315"  (212 holes)
+    T3  0.800mm  0.0315"  (210 holes)
     T4  1.000mm  0.0394"  (8 holes)
     T5  1.016mm  0.0400"  (10 holes)
     T6  1.100mm  0.0433"  (4 holes)
     T7  1.190mm  0.0469"  (4 holes)
     T8  1.200mm  0.0472"  (12 holes)
 
-    Total plated holes count 259
+    Total plated holes count 258
 
 
 Not plated through holes are merged with plated holes
