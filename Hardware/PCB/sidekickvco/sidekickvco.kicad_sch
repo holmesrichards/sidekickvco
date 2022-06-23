@@ -1937,6 +1937,9 @@
     (path "/00000000-0000-0000-0000-000061942543/47ed5eff-22f9-471e-a5d4-27a42630f1f6"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-000061942543/8f15fa59-e015-4e79-9619-0a74655f11ff"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000061a0b1ab/03506130-9d88-4d9c-ad22-c302cf953d5f"
       (reference "B1") (unit 1) (value "Board") (footprint "ao_tht:Board_Marker")
     )
@@ -2125,6 +2128,9 @@
     )
     (path "/00000000-0000-0000-0000-000061942543/3bee36a8-03a5-462b-9a41-044b2d682706"
       (reference "R6") (unit 1) (value "100k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+    )
+    (path "/00000000-0000-0000-0000-000061942543/c54c9523-eeda-488e-a407-f2472b714e1c"
+      (reference "R7") (unit 1) (value "100k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000061942543/00000000-0000-0000-0000-0000611534ab"
       (reference "R8") (unit 1) (value "100k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
